@@ -1,1 +1,1 @@
-# babykangaroo.sol
+BabyKangaroo Token
